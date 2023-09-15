@@ -1,0 +1,73 @@
+.App {
+  height: auto;
+  width: 100vw;
+  font-family: Open Sans, sans-serif;
+}
+
+body {
+  padding: 0%;
+  margin: 0%;
+  background-color: rgb(0, 0, 0);
+}
+
+.breweryHeader {
+  width: 100%;
+  height: 230px;
+  /* background-color: rgb(255, 196, 0); */
+  background-image: url("./assets/jim-harris-zDlusnb3G3Q-unsplash.jpg");
+  /* background-color: rgb(213, 154, 16); */
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.breweryHeader h1 {
+  color: white;
+}
+
+.breweryHeader p {
+  color: black;
+  background-color: rgba(255, 255, 255, 0.746);
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.breweryHeader input {
+  width: 50%;
+  height: 50px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  /* margin-top: 10px; */
+}
+
+.breweryDisplay {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.brewery {
+  width: 450px;
+  height: 300px;
+  background-color: rgb(255, 228, 196);
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+}
+
+.line-break {
+  width: 100%;
+  height: 0px;
+}
