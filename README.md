@@ -1,6 +1,6 @@
 # Open Brewery React App
 
-"Open Brewery React App" is a react app that allows users to check the brewery details based on city keyword. 
+"Open Brewery React App" is a react app that allows users to check the brewery details in the United States based on city keyword. 
 
 ### Tech Stack
 - React
