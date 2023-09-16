@@ -9,8 +9,7 @@
 
 ---
 
-### [Check OpenBreweryReactApp Live](https://6504ef05ba445e43833ce06e--open-brewery-react-app.netlify.app/)
-
+### <a href="https://6504ef05ba445e43833ce06e--open-brewery-react-app.netlify.app/" target="_blank">Check OpenBreweryReactApp Live</a>
 ---
 
 ### Install and Run the Project
@@ -28,5 +27,5 @@
 ---
 
 ### Credits
-- Credits to Chris J Mears and Wandering Leaf Studios LLC for providing the [Open Brewery DB API](https://www.openbrewerydb.org/) that made this possible.
-- Credits to Jim Harris for providing the [wine barrel lot photo](https://unsplash.com/photos/zDlusnb3G3Q).
+- Credits to Chris J Mears and Wandering Leaf Studios LLC for providing the <a href="https://www.openbrewerydb.org/" target="_blank">Open Brewery DB API</a>
+- Credits to Jim Harris for providing the <a href="https://unsplash.com/photos/zDlusnb3G3Q" target="_blank">wine barrel lot photo</a>
