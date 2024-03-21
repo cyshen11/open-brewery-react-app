@@ -18,6 +18,9 @@
 git clone https://github.com/cyshen11/open-brewery-react-app.git
 ```
 ```
+cd open-brewery-react-app
+```
+```
 npm install
 ```
 ```
